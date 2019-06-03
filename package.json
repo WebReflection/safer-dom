@@ -1,6 +1,6 @@
 {
   "name": "safer-dom",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Most common DOM operations made safe by safer-function and safer-class.",
   "main": "index.js",
   "scripts": {
