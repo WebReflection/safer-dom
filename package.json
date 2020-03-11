@@ -17,12 +17,12 @@
   "author": "Andrea Giammarchi",
   "license": "ISC",
   "devDependencies": {
-    "ascjs": "^3.0.1",
-    "basichtml": "^0.22.1",
-    "coveralls": "^3.0.3",
+    "ascjs": "^3.1.2",
+    "basichtml": "^2.1.4",
+    "coveralls": "^3.0.9",
     "istanbul": "^0.4.5",
-    "rollup": "^1.11.3",
-    "rollup-plugin-node-resolve": "^4.2.4",
+    "rollup": "^2.0.3",
+    "rollup-plugin-node-resolve": "^5.2.0",
     "uglify-es": "^3.3.9"
   },
   "dependencies": {
